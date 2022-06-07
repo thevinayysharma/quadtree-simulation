@@ -7,11 +7,12 @@ This implementation is solely for learning purposes about implementation of quad
 - Quadtree particle collisions: Collides 1000 particles Objects simulatenously.
 
 ### Preview
-- Watch Complete [simulation video](https://www.veed.io/view/17599841-85cc-4bfe-a451-5da9140a0e1c)
+- Watch Complete [simulation video](https://www.veed.io/view/17599841-85cc-4bfe-a451-5da9140a0e1c) <br>
+
 ![qtree-gif](https://user-images.githubusercontent.com/68610608/172395885-59869a4b-3e25-41be-8f7d-6d1278b118a2.gif)
 
 
-### Run
+### `Run Locally`
 - Clone this repo locally on your Desktop.
 - Run index.html with live server.
 
