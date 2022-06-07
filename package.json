@@ -1,0 +1,10 @@
+{
+  "name": "y",
+  "version": "y",
+  "main": "quadtree.js",
+  "license": "MIT",
+  "author": "Vinay Sharma",
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
