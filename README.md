@@ -7,8 +7,9 @@ This implementation is solely for learning purposes about implementation of quad
 - Quadtree particle collisions: Collides 1000 particles Objects simulatenously.
 
 
-### Demo
-- [Quadtree simulation]()
+### Run
+- Clone this repo locally on your Desktop.
+- Run index.html with live server.
 
 ### Further optimization for learing:
 - adding action players instead of rectangles.
