@@ -5,6 +5,7 @@ Definition: A quadtree is a tree data structure in which each internal node has 
 This implementation is solely for learning purposes about implementation of quadtree and how it's used for collision detection. The implemented demos are of:
 - Quadtree Rect simulation: It can store and retrieve rectangles in a recursive 2D quadtree.
 - Quadtree particle collisions: Collides 1000 particles Objects simulatenously.
+![qtree-gif](https://user-images.githubusercontent.com/68610608/172395885-59869a4b-3e25-41be-8f7d-6d1278b118a2.gif)
 
 
 ### Run
